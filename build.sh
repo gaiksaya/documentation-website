@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# Sample comment
 host="localhost"
 
 if [[ "$DOCKER_BUILD" == "true" ]]; then
